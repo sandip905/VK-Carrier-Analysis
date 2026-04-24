@@ -1,4 +1,2 @@
 # VK-Carrier-Analysis
 This project presents an interactive Virat Kohli Career Analysis Dashboard, built to explore and visualize the performance of Virat Kohli across different formats of cricket. The dashboard uses data analytics and visualization techniques to provide insights into his batting performance over time.
-The analysis includes key metrics such as total runs, batting average, strike rate, centuries, and performance across formats like Test, ODI, and T20. It also highlights trends in his career, including year-wise performance, consistency, and match-winning contributions.
-This project is developed using Python for data analysis and visualization libraries to create meaningful and interactive charts. It is useful for cricket enthusiasts, data analysts, and anyone interested in sports analytics.
